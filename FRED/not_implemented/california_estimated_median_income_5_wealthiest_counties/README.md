@@ -1,1 +1,0 @@
-Site: https://www.desertsun.com/story/news/nation/california/2024/11/23/can-you-guess-californias-wealthiest-counties-here-are-the-top-5/76524810007/
