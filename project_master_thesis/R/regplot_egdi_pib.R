@@ -50,3 +50,5 @@ ggplot(df, aes(x=egdi, y=gdp)) +
     x="EGDI",
     y='GDP'
   )
+
+cor(df$gdp, df$egdi, method=c('spearman'))
