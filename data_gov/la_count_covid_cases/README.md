@@ -1,0 +1,1 @@
+[LA County COVID Cases](https://catalog.data.gov/dataset/la-county-covid-cases)
