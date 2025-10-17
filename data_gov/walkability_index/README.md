@@ -1,1 +1,0 @@
-[Walkability Index8](https://catalog.data.gov/dataset/walkability-index8)
